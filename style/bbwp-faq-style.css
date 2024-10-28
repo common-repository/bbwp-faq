@@ -1,0 +1,13 @@
+.faqShow{
+	margin-bottom: 10px;
+}
+
+.faqTitle{
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.faqContent{
+	display: none;
+	margin-left: 20px;
+}

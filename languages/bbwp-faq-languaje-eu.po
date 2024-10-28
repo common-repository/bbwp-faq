@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bbwp-faq-languaje\n"
+"POT-Creation-Date: 2014-03-18 18:04+0100\n"
+"PO-Revision-Date: 2014-03-21 19:25+0100\n"
+"Last-Translator: Beñat Bustamante <bbustamante@bbustamante.com>\n"
+"Language-Team: Beñat Bustamante <bbustamante@bbustamante.com>\n"
+"Language: eu_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:4 copia.php:5 copia.php:6
+#: copia.php:7 ../functions/bbwp-faq-custom-posts.php:4
+#: ../functions/bbwp-faq-custom-posts.php:5
+#: ../functions/bbwp-faq-custom-posts.php:6
+#: ../functions/bbwp-faq-custom-posts.php:7
+msgid "FAQ"
+msgstr "Ohiko galderak"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:8
+#: ../functions/bbwp-faq-custom-posts.php:13
+msgid "Add new"
+msgstr "Gehitu berria"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:9
+#: ../functions/bbwp-faq-custom-posts.php:12
+msgid "Add new FAQs"
+msgstr "Gehitu ohiko galdera berria"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:10
+#: ../functions/bbwp-faq-custom-posts.php:11
+msgid "New FAQ"
+msgstr "Ohiko galdera berria"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:11
+#: ../functions/bbwp-faq-custom-posts.php:14
+msgid "Edit FAQ"
+msgstr "Aldatu ohiko galdera"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:12
+#: ../functions/bbwp-faq-custom-posts.php:10
+msgid "View New"
+msgstr "Ikusi berria"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:13
+#: ../functions/bbwp-faq-custom-posts.php:9
+msgid "All FAQs"
+msgstr "Ohiko galdera guztiak"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:14
+#: ../functions/bbwp-faq-custom-posts.php:16
+msgid "Search FAQs"
+msgstr "Arakatu ohiko galderak"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:15
+#: ../functions/bbwp-faq-custom-posts.php:8
+msgid "Parent FAQ"
+msgstr "Ohiko galdera gurasoa"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:16
+#: ../functions/bbwp-faq-custom-posts.php:17
+msgid "FAQ not found"
+msgstr "Ohiko galdera ez da aurkitu"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:17
+#: ../functions/bbwp-faq-custom-posts.php:18
+msgid "FAQ not found in trash"
+msgstr "Ohiko galdera ez da aurkitu paperontzian"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:28
+#: ../functions/bbwp-faq-custom-posts.php:29
+msgid "faq"
+msgstr "ohiko galderak"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:29
+#: ../functions/bbwp-faq-custom-posts.php:30
+msgid "FAQs description"
+msgstr "Ohiko galderaren deskribapena"
+
+#: ../functions/bbwp-faq-custom-posts.php:15
+msgid "Update"
+msgstr "Eguneratu"
+
+#~ msgid "Add New"
+#~ msgstr "Añadir nueva"
+
+#, fuzzy
+#~ msgid "FAQs"
+#~ msgstr "Todas las preguntas frecuentes"
+
+#~ msgid "The FAQs"
+#~ msgstr "Las preguntas frecuentes"
+
+#~ msgid "The FAQ"
+#~ msgstr "La pregunta frecuente"

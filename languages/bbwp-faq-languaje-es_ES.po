@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bbwp-faq-languaje\n"
+"POT-Creation-Date: 2014-03-18 18:04+0100\n"
+"PO-Revision-Date: 2014-03-18 18:04+0100\n"
+"Last-Translator: Beñat Bustamante <bbustamante@bbustamante.com>\n"
+"Language-Team: Beñat Bustamante <bbustamante@bbustamante.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:4 copia.php:5 copia.php:6
+#: copia.php:7 ../functions/bbwp-faq-custom-posts.php:4
+#: ../functions/bbwp-faq-custom-posts.php:5
+#: ../functions/bbwp-faq-custom-posts.php:6
+#: ../functions/bbwp-faq-custom-posts.php:7
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:8
+#: ../functions/bbwp-faq-custom-posts.php:13
+msgid "Add new"
+msgstr "Añadir nueva"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:9
+#: ../functions/bbwp-faq-custom-posts.php:12
+msgid "Add new FAQs"
+msgstr "Añadir nueva pregunta frecuente"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:10
+#: ../functions/bbwp-faq-custom-posts.php:11
+msgid "New FAQ"
+msgstr "Nueva pregunta frecuente"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:11
+#: ../functions/bbwp-faq-custom-posts.php:14
+msgid "Edit FAQ"
+msgstr "Editar preguntas frecuentes"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:12
+#: ../functions/bbwp-faq-custom-posts.php:10
+msgid "View New"
+msgstr "Ver nueva"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:13
+#: ../functions/bbwp-faq-custom-posts.php:9
+msgid "All FAQs"
+msgstr "Todas las preguntas frecuentes"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:14
+#: ../functions/bbwp-faq-custom-posts.php:16
+msgid "Search FAQs"
+msgstr "Buscar en preguntas frecuentes"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:15
+#: ../functions/bbwp-faq-custom-posts.php:8
+msgid "Parent FAQ"
+msgstr "Pregunta frecuente padre"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:16
+#: ../functions/bbwp-faq-custom-posts.php:17
+msgid "FAQ not found"
+msgstr "Pregunta frecuente no encontrada"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:17
+#: ../functions/bbwp-faq-custom-posts.php:18
+msgid "FAQ not found in trash"
+msgstr "Pregunta frecuente no encontrada en la papelera"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:28
+#: ../functions/bbwp-faq-custom-posts.php:29
+msgid "faq"
+msgstr "preguntas frecuentes"
+
+#: ../functions/bbwp-faq-custom-posts - copia.php:29
+#: ../functions/bbwp-faq-custom-posts.php:30
+msgid "FAQs description"
+msgstr "Descripción de pregunta frecuente"
+
+#: ../functions/bbwp-faq-custom-posts.php:15
+msgid "Update"
+msgstr "Actualizar"
+
+#~ msgid "Add New"
+#~ msgstr "Añadir nueva"
+
+#, fuzzy
+#~ msgid "FAQs"
+#~ msgstr "Todas las preguntas frecuentes"
+
+#~ msgid "The FAQs"
+#~ msgstr "Las preguntas frecuentes"
+
+#~ msgid "The FAQ"
+#~ msgstr "La pregunta frecuente"
